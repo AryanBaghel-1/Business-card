@@ -6,7 +6,7 @@ export const DEFAULT_CARD_DATA: BusinessCard = {
   company: "Tech Corp",
   email: "jane.doe@example.com",
   phone: "+1 (555) 123-4567",
-  website: "https://janedoe.dev",
+  website: "https://your-website.dev",
   location: "San Francisco, CA",
   github: "janedoe",
   linkedin: "janedoe",
